@@ -33,7 +33,7 @@ class Sidebar extends React.Component {
 
                         <a
                             className="SocialLinks"
-                            href="https://www.instagram.com/a_isaefff"
+                            href="https://www.instagram.com/a_isaeff"
                             target="_blank"
                             rel="noopener noreferrer">
                             <i aria-hidden="true" class="instagram big icon"></i>
